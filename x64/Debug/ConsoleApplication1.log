@@ -1,22 +1,8 @@
 ﻿  ConsoleApplication1.cpp
-d:\巴黎\et5\ti projet\projet\consoleapplication1\consoleapplication1.cpp(133): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
-          with
-          [
-              _Tp=float
-          ]
-d:\巴黎\et5\ti projet\projet\consoleapplication1\consoleapplication1.cpp(134): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
-          with
-          [
-              _Tp=float
-          ]
-d:\巴黎\et5\ti projet\projet\consoleapplication1\consoleapplication1.cpp(135): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
-          with
-          [
-              _Tp=float
-          ]
-d:\巴黎\et5\ti projet\projet\consoleapplication1\consoleapplication1.cpp(136): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
-          with
-          [
-              _Tp=float
-          ]
+d:\巴黎\et5\ti projet\projet\consoleapplication1\consoleapplication1.cpp(217): warning C4244: “初始化”: 从“long double”转换到“float”，可能丢失数据
+d:\巴黎\et5\ti projet\projet\consoleapplication1\consoleapplication1.cpp(229): warning C4244: “初始化”: 从“long double”转换到“float”，可能丢失数据
+d:\巴黎\et5\ti projet\projet\consoleapplication1\consoleapplication1.cpp(240): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+d:\巴黎\et5\ti projet\projet\consoleapplication1\consoleapplication1.cpp(244): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\巴黎\et5\ti projet\projet\consoleapplication1\consoleapplication1.cpp(257): warning C4244: “初始化”: 从“long double”转换到“float”，可能丢失数据
+d:\巴黎\et5\ti projet\projet\consoleapplication1\consoleapplication1.cpp(268): warning C4244: “初始化”: 从“long double”转换到“float”，可能丢失数据
   ConsoleApplication1.vcxproj -> D:\巴黎\ET5\TI projet\Projet\x64\Debug\ConsoleApplication1.exe
